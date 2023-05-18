@@ -1,0 +1,8 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/Algebraic_Cryptanalysis_A-5-GMR-1_Modified/Algebraic_Cryptanalysis_A-5-GMR-1_Modified.vcxproj.filters
+/Algebraic_Cryptanalysis_A-5-GMR-1_Modified/Algebraic_Cryptanalysis_A-5-GMR-1_Modified.vcxproj.user
+/Algebraic_Cryptanalysis_A-5-GMR-1_Modified/x64/Debug
